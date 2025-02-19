@@ -1,12 +1,9 @@
  ## Book Review Web Application
 
-A react and express web  project.
+A react and express web  project using PostgresSQL.
 
 #   Getting Started
 
-#   Requirement:
-
-Postgres is necessary for data storing.
 
 #   Installing:
 
@@ -178,12 +175,3 @@ To prepare a deployment of project, run that command at project directory:
             }
 
 + Response 404 Bad Request
-
-
-#   License
-
-This project is licensed under the MIT License 
-
-#   Authors
-
-Yusuf Yılmaz
